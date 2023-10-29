@@ -22,6 +22,14 @@ Usage:
 2. Install the required dependencies using pip.
 3. Run the Jupyter Notebook or Python scripts to execute the project.
 
+
+Contributing:
+We welcome contributions to this project. Feel free to open issues, submit pull requests, or provide feedback.
+
+License:
+This project is licensed under the MIT License.
+
+
 Installation
 
 To install the required libraries, run the following command in your terminal or command prompt:
@@ -30,9 +38,4 @@ To install the required libraries, run the following command in your terminal or
 pip install -r requirements.txt
 
 
-Contributing:
-We welcome contributions to this project. Feel free to open issues, submit pull requests, or provide feedback.
-
-License:
-This project is licensed under the MIT License.
 
